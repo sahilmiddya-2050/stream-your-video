@@ -1,0 +1,7 @@
+.stream {
+  transition: background-color 0.2s ease;
+}
+
+.stream:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
